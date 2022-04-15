@@ -1,0 +1,46 @@
+.container {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: "font-style";
+}
+
+.profile {
+  border-radius: 10px;
+}
+
+.contact {
+  margin-top: 10px;
+}
+
+.contact div {
+  margin: 10px 0px 10px 0px;
+}
+
+.contact-title {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.about-me {
+  margin: 30px 0px 10px 0px;
+  font-size: 25px;
+}
+
+.status-server {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  width: 100%;
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+
+.text-dark {
+  color: #000;
+}
+
+.text-light {
+  color: #fff;
+}

@@ -1,0 +1,14 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    font-family: 'font-style';
+    font-size: 20px;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.icn-love {
+    color: #e74c3c;
+    margin-left: 10px;
+    margin-right: 10px;
+}
